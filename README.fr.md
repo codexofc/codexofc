@@ -3,17 +3,17 @@
 <a href="README.md"><img src="https://img.shields.io/badge/🇬🇧_English-1a1b27?style=for-the-badge" alt="English"/></a>
 <a href="README.fr.md"><img src="https://img.shields.io/badge/🇫🇷_Français-a855f7?style=for-the-badge" alt="Français"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Salut%2C%20moi%20c'est%20Codex%20%F0%9F%91%8B&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Lead%20Developer%20%E2%80%A2%20Architecte%20Logiciel%20%E2%80%A2%20Lyon%2C%20France&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7c3aed,100:a855f7&height=200&section=header&text=Lead%20Developer%20%26%20Architecte%20Logiciel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=De%20l'embarqu%C3%A9%20au%20cloud%20%E2%80%A2%20Lyon%2C%20France&descAlignY=60&descSize=18" width="100%"/>
 
 <a href="https://github.com/codexofc">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Je+code+depuis+mes+12+ans;10%2B+ans+d'exp%C3%A9rience+professionnelle;De+l'assembleur+x86+%C3%A0+Kubernetes;Tueur+de+legacy+%E2%80%A2+Accro+%C3%A0+l'architecture;Passionn%C3%A9+d'IA+%2F+RAG+%2F+CUDA;Je+parle+plus+de+langages+qu'un+compilateur" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=10%2B+ans+d'exp%C3%A9rience+professionnelle;Ing%C3%A9nieur+full+spectrum+%3A+de+l'embarqu%C3%A9+au+cloud;De+l'assembleur+x86+%C3%A0+Kubernetes;Tueur+de+legacy+%E2%80%A2+Accro+%C3%A0+l'architecture;Passionn%C3%A9+d'IA+%2F+RAG+%2F+CUDA;Je+parle+plus+de+langages+qu'un+compilateur" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=codexofc&style=for-the-badge&color=a855f7&label=VUES+DU+PROFIL" alt="Vues du profil"/>
-<img src="https://img.shields.io/badge/📍_Lyon-France-blue?style=for-the-badge&labelColor=1a1b27" alt="Lyon"/>
-<img src="https://img.shields.io/badge/🏠-En_télétravail-success?style=for-the-badge&labelColor=1a1b27" alt="Télétravail"/>
+<img src="https://img.shields.io/badge/📍_Lyon-France-a855f7?style=for-the-badge&labelColor=1a1b27" alt="Lyon"/>
+<img src="https://img.shields.io/badge/🏠-En_télétravail-7c3aed?style=for-the-badge&labelColor=1a1b27" alt="Télétravail"/>
 
 </div>
 
@@ -21,22 +21,14 @@
 
 ## 🧬 À propos
 
-```rust
-struct Codex {
-    role:        "Lead Developer / Architecte Logiciel",
-    experience:  "10+ ans en pro — je code depuis mes 12 ans",
-    location:    "Lyon, France 🇫🇷",
-    specialites: ["Refonte de legacy", "System design", "DDD", "Ingénierie IA"],
-    carburant:   ["Café ☕", "Pattern Strangler Fig 🌿", "cargo build 🦀"],
-    fun_fact:    "J'ai shippé du code du ring 0 jusqu'au navigateur — et tout ce qu'il y a entre",
-}
-```
-
-- 🏗️ **Architecte & lead** — auteur de plusieurs **refontes et reconstructions de plateformes** à grande échelle (TMS logistique, tableau d'opérations aériennes, fournisseur d'identité…)
+- 👨‍💻 **10+ ans d'expérience professionnelle** — du freelance au poste de **Lead Developer & Référent Technique**, promu lead en moins d'un mois après la rédaction de deux audits techniques approfondis
+- 🏗️ **Architecte** — auteur de plusieurs **refontes et reconstructions de plateformes** à grande échelle (TMS logistique, tableau d'opérations aériennes, Identity Provider OAuth2/OIDC conforme aux RFC, cluster Kubernetes from scratch…) — DDD, CQRS, Event-Driven, Strangler Fig
+- 🚀 **Entrepreneur dans l'âme** — co-fondateur d'une startup événementielle : application Flutter complète (billetterie, artistes, partenaires), direction technique & commerciale
 - 🧠 **Ingénierie IA** — pipelines RAG, intégration LLM/SLM, OCR, accélération CUDA
-- 🛡️ **Cybersécurité** — audits de sécurité, hardening, mentalité offensive & défensive
-- ⚙️ **Amoureux du bas niveau** — C, C++, assembleur x86, WASM… j'aime savoir ce que la machine fait *vraiment*
-- 🌍 **Contributeur open source** — [Psalm](https://github.com/vimeo/psalm), [npm CLI](https://github.com/npm/cli), Node.js best practices — *Arctic Code Vault Contributor* ❄️
+- 🛡️ **Cybersécurité** — audits de sécurité, hardening, IAM, mentalité offensive & défensive
+- ⚙️ **Amoureux du bas niveau** — C, C++, assembleur x86, WASM, embarqué/RTOS… j'aime savoir ce que la machine fait *vraiment*
+- 🌍 **Contributeur open source** — [Brave](https://github.com/brave/brave-core), [Jellyfin](https://github.com/jellyfin/jellyfin), [Psalm](https://github.com/vimeo/psalm), [npm CLI](https://github.com/npm/cli) — *Arctic Code Vault Contributor* ❄️
+- 🎷 **Hors clavier** — saxophone, mixage vinyle, littérature & philosophie, géopolitique
 
 ---
 
@@ -74,18 +66,23 @@ struct Codex {
 
 > 🌿 *Sport favori : faire passer un legacy de 246 violations d'architecture à 38 — puis verrouiller ça en CI pour que ça ne revienne jamais.*
 
+## 🧪 Projets perso & Open Source
+
+| 🚬 **Cigar Database** | 🦁 **Brave Browser** | 🎬 **Jellyfin** |
+|:---:|:---:|:---:|
+| La base de données centrale de cigares qui n'existait pas — scraping automatisé, matching Levenshtein pour mapping douanier · **Rust** | Contributeur actif — correctifs & améliorations techniques sur la base Chromium · **C++** | Contributeur — backend .NET, corrections de bugs & communauté · **C#** |
+
 ---
 
 ## 📊 Statistiques
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=codexofc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&count_private=true&include_all_commits=true&locale=fr" alt="Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codexofc&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=10&locale=fr" alt="Top langages"/>
+<img src="https://raw.githubusercontent.com/codexofc/codexofc/output/metrics.svg" alt="Metrics" width="100%"/>
 
-<img src="https://streak-stats.demolab.com?user=codexofc&theme=tokyonight&hide_border=true&background=1a1b27&locale=fr" alt="Streak"/>
+<img src="https://streak-stats.demolab.com?user=codexofc&theme=tokyonight&hide_border=true&background=1a1b27&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&locale=fr" alt="Streak"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=codexofc&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophées"/>
+<img src="https://raw.githubusercontent.com/codexofc/codexofc/output/achievements.svg" alt="Succès" width="100%"/>
 
 </div>
 
@@ -109,6 +106,6 @@ struct Codex {
 
 ### 💬 *« Le meilleur code est celui qu'on n'a pas à écrire deux fois. »*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:7c3aed,100:1a1b27&height=120&section=footer" width="100%"/>
 
 </div>

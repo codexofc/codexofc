@@ -1,0 +1,42 @@
+name: Generate metrics
+
+on:
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      # Statistiques générales + langages (remplace github-readme-stats, souvent en 503)
+      - uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: metrics.svg
+          base: header, activity, community, repositories
+          plugin_languages: yes
+          plugin_languages_limit: 10
+          plugin_languages_sections: most-used
+          plugin_languages_colors: rainbow
+          config_theme: dark
+          committer_branch: output
+          output_action: commit
+
+      # Trophées (remplace github-profile-trophy, souvent en 402)
+      - uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: achievements.svg
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
+          config_theme: dark
+          committer_branch: output
+          output_action: commit
