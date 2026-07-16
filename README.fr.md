@@ -70,9 +70,9 @@
 
 ## 🏆 Ce que je construis
 
-| 🚛 **TMS Logistique** | ✈️ **Flight Ops Board** | 🔐 **Fournisseur d'identité** | 🤖 **Plateforme IA** |
-|:---:|:---:|:---:|:---:|
-| Refonte d'un legacy Symfony à grande échelle : DDD, Strangler Fig, architecture imposée en CI | Tableau de bord temps réel des opérations aériennes | Plateforme d'identité SSO / OAuth2 | Intelligence documentaire RAG + OCR, orchestration LLM |
+| 🚛 **TMS Logistique** | 📢 **SaaS AdTech** | ✈️ **Flight Ops Board** | 🔐 **Fournisseur d'identité** | 🤖 **Plateforme IA** |
+|:---:|:---:|:---:|:---:|:---:|
+| Refonte d'un legacy Symfony à grande échelle : DDD, Strangler Fig, architecture imposée en CI | Refonte front-end ayant mené à la reconstruction complète de la plateforme sous Symfony : CQRS, DDD, Event-Driven, microservices Kafka & Mercure | Tableau de bord temps réel des opérations aériennes | Plateforme d'identité SSO / OAuth2 | Intelligence documentaire RAG + OCR, orchestration LLM |
 
 > 🌿 *Sport favori : faire passer un legacy de 246 violations d'architecture à 38, puis verrouiller ça en CI pour que ça ne revienne jamais.*
 
