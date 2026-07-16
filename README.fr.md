@@ -84,20 +84,6 @@
 
 ---
 
-## 📊 Statistiques
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/codexofc/codexofc/output/metrics.svg" alt="Metrics" width="100%"/>
-
-<img src="https://streak-stats.demolab.com?user=codexofc&theme=tokyonight&hide_border=true&background=1a1b27&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&locale=fr" alt="Streak"/>
-
-<img src="https://raw.githubusercontent.com/codexofc/codexofc/output/achievements.svg" alt="Succès" width="100%"/>
-
-</div>
-
----
-
 ## 🐍 Graphe de contributions
 
 <div align="center">
