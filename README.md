@@ -3,7 +3,7 @@
 <a href="README.md"><img src="https://img.shields.io/badge/🇬🇧_English-a855f7?style=for-the-badge" alt="English"/></a>
 <a href="README.fr.md"><img src="https://img.shields.io/badge/🇫🇷_Français-1a1b27?style=for-the-badge" alt="Français"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7c3aed,100:a855f7&height=200&section=header&text=Lead%20Developer%20%26%20Software%20Architect&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=From%20bare%20metal%20to%20the%20cloud%20%E2%80%A2%20Lyon%2C%20France&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7c3aed,100:a855f7&height=200&section=header&text=Lead%20Developer%20%C2%B7%20Software%20Architect&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=From%20bare%20metal%20to%20the%20cloud%20%E2%80%A2%20Lyon%2C%20France&descAlignY=60&descSize=18" width="100%"/>
 
 <a href="https://github.com/codexofc">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=10%2B+years+of+professional+experience;Full-spectrum+engineer%3A+embedded+to+cloud;From+x86+Assembly+to+Kubernetes;Legacy+slayer+%E2%80%A2+Architecture+addict;AI+%2F+RAG+%2F+CUDA+enthusiast;I+speak+more+languages+than+a+compiler" alt="Typing SVG" />
