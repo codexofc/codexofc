@@ -1,5 +1,8 @@
 <div align="center">
 
+<a href="README.md"><img src="https://img.shields.io/badge/🇬🇧_English-a855f7?style=for-the-badge" alt="English"/></a>
+<a href="README.fr.md"><img src="https://img.shields.io/badge/🇫🇷_Français-1a1b27?style=for-the-badge" alt="Français"/></a>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%2C%20I'm%20Codex%20%F0%9F%91%8B&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Lead%20Developer%20%E2%80%A2%20Software%20Architect%20%E2%80%A2%20Lyon%2C%20France&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/codexofc">
