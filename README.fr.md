@@ -21,14 +21,14 @@
 
 ## 🧬 À propos
 
-- 👨‍💻 **10+ ans d'expérience professionnelle** — du freelance au poste de **Lead Developer & Référent Technique**, promu lead en moins d'un mois après la rédaction de deux audits techniques approfondis
-- 🏗️ **Architecte** — auteur de plusieurs **refontes et reconstructions de plateformes** à grande échelle (TMS logistique, tableau d'opérations aériennes, Identity Provider OAuth2/OIDC conforme aux RFC, cluster Kubernetes from scratch…) — DDD, CQRS, Event-Driven, Strangler Fig
-- 🚀 **Entrepreneur dans l'âme** — co-fondateur d'une startup événementielle : application Flutter complète (billetterie, artistes, partenaires), direction technique & commerciale
-- 🧠 **Ingénierie IA** — pipelines RAG, intégration LLM/SLM, OCR, accélération CUDA
-- 🛡️ **Cybersécurité** — audits de sécurité, hardening, IAM, mentalité offensive & défensive
-- ⚙️ **Amoureux du bas niveau** — C, C++, assembleur x86, WASM, embarqué/RTOS… j'aime savoir ce que la machine fait *vraiment*
-- 🌍 **Contributeur open source** — [Brave](https://github.com/brave/brave-core), [Jellyfin](https://github.com/jellyfin/jellyfin), [Psalm](https://github.com/vimeo/psalm), [npm CLI](https://github.com/npm/cli) — *Arctic Code Vault Contributor* ❄️
-- 🎷 **Hors clavier** — saxophone, mixage vinyle, littérature & philosophie, géopolitique
+- 👨‍💻 **10+ ans d'expérience professionnelle**, du freelance au poste de **Lead Developer & Référent Technique**
+- 🏗️ **Architecte** : auteur de plusieurs **refontes et reconstructions de plateformes** à grande échelle (TMS logistique, tableau d'opérations aériennes, Identity Provider OAuth2/OIDC conforme aux RFC, cluster Kubernetes from scratch…)
+- 🚀 **Entrepreneur dans l'âme** : co-fondateur d'une startup événementielle, application Flutter complète (billetterie, artistes, partenaires), direction technique & commerciale
+- 🧠 **Ingénierie IA** : pipelines RAG, intégration LLM/SLM, OCR, accélération CUDA
+- 🛡️ **Cybersécurité** : audits de sécurité, hardening, IAM, mentalité offensive & défensive
+- ⚙️ **Amoureux du bas niveau** : C, C++, assembleur x86, WASM, embarqué/RTOS… j'aime savoir ce que la machine fait *vraiment*
+- 🌍 **Contributeur open source** : [Brave](https://github.com/brave/brave-core), [Jellyfin](https://github.com/jellyfin/jellyfin), [Psalm](https://github.com/vimeo/psalm), [npm CLI](https://github.com/npm/cli) · *Arctic Code Vault Contributor* ❄️
+- 🎷 **Hors clavier** : saxophone, mixage vinyle, littérature & philosophie, géopolitique
 
 ---
 
@@ -46,6 +46,14 @@
 
 <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native"/> <img src="https://img.shields.io/badge/Twig-3F830D?style=flat-square&logo=symfony&logoColor=white" alt="Twig"/> <img src="https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=python&logoColor=white" alt="uv"/>
 
+### 🗄️ Data, Search & Messaging
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,elasticsearch,kafka,rabbitmq,selenium,postman&perline=9" alt="Data & Messaging"/>
+
+<img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB"/> <img src="https://img.shields.io/badge/Meilisearch-FF5CAA?style=flat-square&logo=meilisearch&logoColor=white" alt="Meilisearch"/> <img src="https://img.shields.io/badge/Mercure-16A085?style=flat-square&logo=symfony&logoColor=white" alt="Mercure"/> <img src="https://img.shields.io/badge/Swagger_·_OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger"/> <img src="https://img.shields.io/badge/Scraping_avancé-FF6F00?style=flat-square&logo=selenium&logoColor=white" alt="Scraping"/>
+
+### 🏛️ Architecture & Patterns
+<img src="https://img.shields.io/badge/DDD-7c3aed?style=flat-square" alt="DDD"/> <img src="https://img.shields.io/badge/Hexagonale-a855f7?style=flat-square" alt="Hexagonale"/> <img src="https://img.shields.io/badge/CQRS-7c3aed?style=flat-square" alt="CQRS"/> <img src="https://img.shields.io/badge/Event--Driven-a855f7?style=flat-square" alt="Event-Driven"/> <img src="https://img.shields.io/badge/Specification-7c3aed?style=flat-square" alt="Specification"/> <img src="https://img.shields.io/badge/Outbox-a855f7?style=flat-square" alt="Outbox"/> <img src="https://img.shields.io/badge/Saga_·_Choreography-7c3aed?style=flat-square" alt="Saga"/> <img src="https://img.shields.io/badge/Strangler_Fig-a855f7?style=flat-square" alt="Strangler Fig"/> <img src="https://img.shields.io/badge/Microservices-7c3aed?style=flat-square" alt="Microservices"/> <img src="https://img.shields.io/badge/REST_·_API_Design-a855f7?style=flat-square" alt="REST"/> <img src="https://img.shields.io/badge/Lecteur_de_RFC-1a1b27?style=flat-square&logo=readthedocs&logoColor=white" alt="RFC"/>
+
 ### ☁️ Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux,debian,arch,bash,git,githubactions&perline=10" alt="DevOps"/>
 
@@ -53,6 +61,8 @@
 
 ### 🧠 IA & Sécurité
 <img src="https://img.shields.io/badge/LLM_/_SLM-8A2BE2?style=flat-square&logo=openaigym&logoColor=white" alt="LLM"/> <img src="https://img.shields.io/badge/RAG-FF6F61?style=flat-square&logo=databricks&logoColor=white" alt="RAG"/> <img src="https://img.shields.io/badge/OCR-4285F4?style=flat-square&logo=googlelens&logoColor=white" alt="OCR"/> <img src="https://img.shields.io/badge/Cybersécurité-DC143C?style=flat-square&logo=hackaday&logoColor=white" alt="Cyber"/> <img src="https://img.shields.io/badge/Audits_de_sécurité-2F4F4F?style=flat-square&logo=owasp&logoColor=white" alt="Audits"/>
+
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali"/> <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit"/> <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite"/> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"/> <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=gnometerminal&logoColor=white" alt="Nmap"/> <img src="https://img.shields.io/badge/Netcat-2F4F4F?style=flat-square&logo=gnubash&logoColor=white" alt="Netcat"/>
 
 </div>
 
@@ -62,15 +72,15 @@
 
 | 🚛 **TMS Logistique** | ✈️ **Flight Ops Board** | 🔐 **Fournisseur d'identité** | 🤖 **Plateforme IA** |
 |:---:|:---:|:---:|:---:|
-| Refonte d'un legacy Symfony à grande échelle — DDD, Strangler Fig, architecture imposée en CI | Tableau de bord temps réel des opérations aériennes | Plateforme d'identité SSO / OAuth2 | Intelligence documentaire RAG + OCR, orchestration LLM |
+| Refonte d'un legacy Symfony à grande échelle : DDD, Strangler Fig, architecture imposée en CI | Tableau de bord temps réel des opérations aériennes | Plateforme d'identité SSO / OAuth2 | Intelligence documentaire RAG + OCR, orchestration LLM |
 
-> 🌿 *Sport favori : faire passer un legacy de 246 violations d'architecture à 38 — puis verrouiller ça en CI pour que ça ne revienne jamais.*
+> 🌿 *Sport favori : faire passer un legacy de 246 violations d'architecture à 38, puis verrouiller ça en CI pour que ça ne revienne jamais.*
 
 ## 🧪 Projets perso & Open Source
 
 | 🚬 **Cigar Database** | 🦁 **Brave Browser** | 🎬 **Jellyfin** |
 |:---:|:---:|:---:|
-| La base de données centrale de cigares qui n'existait pas — scraping automatisé, matching Levenshtein pour mapping douanier · **Rust** | Contributeur actif — correctifs & améliorations techniques sur la base Chromium · **C++** | Contributeur — backend .NET, corrections de bugs & communauté · **C#** |
+| La base de données centrale de cigares qui n'existait pas : scraping automatisé, matching Levenshtein pour mapping douanier · **Rust** | Contributeur actif : correctifs & améliorations techniques sur la base Chromium · **C++** | Contributeur : backend .NET, corrections de bugs & communauté · **C#** |
 
 ---
 
